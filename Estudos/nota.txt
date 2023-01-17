@@ -1,0 +1,4 @@
+Maça =  R$ 4,20
+Morango =  R$ 4,20
+Melancia =  R$ 4,20
+Total  =  R$ 16,60
